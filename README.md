@@ -1,2 +1,1 @@
-# smkondo.github.io
-Shinya's personal website
+Shinya's personal webiste
