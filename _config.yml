@@ -1,0 +1,37 @@
+title: "Shinya Kondo"
+author: "Shinya Kondo"
+description: "Shinya Kondo"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+favicon: media/icon.png
+
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: false       # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "home.md", title: Home}
+  - {file: "index.html", title: Projects}
+  - {file: "about.md", title: About Me}
+  - {url: "/KondoShinyaResume.pdf", title: Resume}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: , icon: envelope, url: "mailto:smkondo@seas.upenn.edu"}
+  - {title: , icon: github, url: "https://github.com/smkondo"}
+  - {title: , icon: linkedin-in, url: "https://www.linkedin.com/in/shinya-kondo-426044152/"}
+  - {title: , icon: twitter, url: "https://twitter.com/kondo_shinya"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
