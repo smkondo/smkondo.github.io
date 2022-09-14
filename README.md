@@ -1,1 +1,0 @@
-Shinya's personal webiste
