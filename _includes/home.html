@@ -1,7 +1,7 @@
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
-    <div class="photo"><img style = "padding: 10px; float: right;" src="{{ post.image }}" width="200px"/></div>
+    <div class="photo"><img style = "padding: 10px; float: right;" src="{{ post.image }}" width="200px" height="200px"/></div>
     {% include meta.html post=post preview=true %}
     <!-- {{ post.excerpt }} -->
     {{ post.description }}
