@@ -4,7 +4,7 @@ template: "page"
 socialImage: ""
 ---
 
-Hi, I'm Shinya! I am an engineering researcher interested in researching patterns in the natural world and applying them to engineering applications. I am namely interested in investigating the building blocks of fluid flows using reduced-order modeling techniques. I was previously a Ph.D. candidate at the University of Pennyslvania under the supervision of Dr. George Ilhwan Park; however, left the program after two years (my reasoning can be found here). I received my M.S. in Mechanical Engineering from the University of Pennsylvania in 2022 and my B.S. in Mechanical Engineering from Columbia University in 2020. 
+Hi, I'm Shinya! I am an engineering researcher interested in researching patterns in the natural world and applying them to engineering applications. I am namely interested in investigating the building blocks of fluid flows using reduced-order modeling techniques. I was previously a Ph.D. candidate at the University of Pennyslvania under the supervision of Dr. George Ilhwan Park; however, left the program after two years. I received my M.S. in Mechanical Engineering from the University of Pennsylvania in 2022 and my B.S. in Mechanical Engineering from Columbia University in 2020. 
 
 ![](/media/profile.jpg)
 
