@@ -2,7 +2,8 @@
 title:  "Modal Analysis of a Two-Dimensional Oscillating Cylinder"
 mathjax: true
 layout: post
-categories: media
+image: /media/stationary.png
+description: "Reduced-order modeling of the flow behind a tranversley oscillating cyclinder using Dynamic Mode Decomposition"
 ---
 
 <!-- ![stationary](/media/stationary.png) -->

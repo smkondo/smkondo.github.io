@@ -2,7 +2,8 @@
 title:  "Deep Convolutional Autoencoder: 3D turbulent channel flow reconstruction using sparse 2D images"
 mathjax: true
 layout: post
-categories: media
+image: /media/2dflow.png
+description: "reconstructing 3D turbulent channel flow using sparse 2D images by training a deep convolutional autoencoder"
 ---
 
 ![3D flow](/media/2dflow.png)
