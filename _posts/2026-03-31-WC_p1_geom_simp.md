@@ -46,7 +46,7 @@ The two videos below show the plan- and isometric-views of the simplification fo
 
 ### Example 2: Building w/ Courtyard
 Our second example is a Building with a Courtyard located on 145th Street between Broadway and Amsterdam Dr. (google maps view shown below).
-![I_shape_satellite](/media/2026_0331_courtyard_satellite.png)
+![Courtyard_satellite](/media/2026_0331_courtyard_satellite.png)
 
 The two videos below show the plan- and isometric-views of the simplification for this building w/ a courtyard in Rhino using the Grasshopper script:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phJqogFt3vQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -54,7 +54,7 @@ The two videos below show the plan- and isometric-views of the simplification fo
 
 ### Example 3: Entire City Block
 Our third example is of an entire city block located between 147th and 148th Street between Amsterdam Ave. and Broadway (google maps view shown below).
-![I_shape_satellite](/media/2026_0331_cityblock_satellite.png)
+![City_block_satellite](/media/2026_0331_city_block_satellite.png)
 
 The two videos below show the plan- and isometric-views of the simplification for this city block in Rhino using the Grasshopper script:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YshupbfrZ3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
