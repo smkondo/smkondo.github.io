@@ -5,9 +5,9 @@ template: "page"
 
 <style>
 .photo {
-  /*margin: 20px;*/
+  /*margin: 10px;*/
   /*border: 2px solid black;*/
-/*  padding: 20px;*/
+/*  padding: 10px;*/
 } 
 </style>
 
