@@ -27,7 +27,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: , icon: envelope, url: "mailto:smkondo@seas.upenn.edu"}
   - {title: , icon: github, url: "https://github.com/smkondo"}
   - {title: , icon: linkedin-in, url: "https://www.linkedin.com/in/shinya-kondo-426044152/"}
-  - {title: , icon: twitter, url: "https://twitter.com/kondo_shinya"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
