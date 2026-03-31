@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/KondoShinyaResume.pdf", title: Resume}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: , icon: envelope, url: "mailto:smkondo@seas.upenn.edu"}
+  - {title: , icon: envelope, url: "mailto:shinyamkondo@gmail.com"}
   - {title: , icon: github, url: "https://github.com/smkondo"}
   - {title: , icon: linkedin-in, url: "https://www.linkedin.com/in/shinya-kondo-426044152/"}
 
