@@ -5,7 +5,8 @@ layout: post
 image: /media/2026_0331_geometry_overview.png
 description: "Automated geometry simplification of building massing using a Grasshopper Script in Rhino."
 ---
-[![Watch the video](https://img.youtube.com/vi/watch?v=UzTBwVRbRT4/0.jpg)](https://www.youtube.com/watch?v=UzTBwVRbRT4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=UzTBwVRbRT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Table of Contents
 1. [Background](#background)
