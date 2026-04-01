@@ -66,9 +66,6 @@ There are a few limitations with the current cleaning script that was developed 
 1. The script can only simplify buildings that are a single height.
 2. The script only takes into consideration the building itself. It does not consider the massing of the nearby buildings.
 
-* Future improvements will take into the consideration the impacts of adjacent buildings
-* Future improvements will also attempt to use statistical learning to attempt to simplify buildings based on previous successful simplified buildings. The simplified geometries here can be used as training geometries to create a model that can predict the simplified geometries.
-
 ## Future Improvements
 In the next iteration of this geometry simplification script, I would like to attempt to add the following features: 
 1. Taking into consideration the adjacent buildings to see if they can be combined to create a single geometry.
